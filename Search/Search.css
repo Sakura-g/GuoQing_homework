@@ -1,0 +1,82 @@
+div.fast a
+{
+    white-space: pre-wrap;
+    color:whitesmoke;
+    text-decoration:none;
+    font-weight: bold;
+    font-size: 20px;
+}
+div.fast
+{
+    text-align: right;
+}
+#image
+{
+    position: fixed;
+    left:480px;
+    top:160px;
+    height:127px;
+    width:500px;
+}
+#search
+{
+    position: absolute;
+    top:400px;
+    left:1250px;
+    background-color: aquamarine;
+    font-size: 30px;
+    width:150px;
+    height:63px;
+    padding:5px;
+    color:whitesmoke;
+    font-weight: bold;
+}
+body
+{
+    background-image: url("Search_background_text.jpg");
+}
+#search_main
+{
+    position: absolute;
+    top:400px;
+    left: 550px;
+    border:0px;
+    width: 700px;
+    height: 60px;
+}
+#T-Dcode
+{
+    position:absolute;
+    top:600px;
+    left: 900px;
+}
+#T-Dcode_1
+{
+    position: absolute;
+    top:730px;
+    left:840px;
+    font-family: "楷体";
+    font-size: 20px;
+    color: navajowhite;
+}
+.bottom
+{
+    position: absolute;
+    font-family: "微软雅黑";
+    color: aliceblue;
+    padding: 4px;
+    font-size:20px;
+    top:935px;
+    left:800px;
+}
+.bottom a:link
+{
+    opacity: 5%;
+    text-decoration:none;
+    color: darkorange;
+}
+.bottom a:visited
+{
+    text-decoration: none;
+    color: cornflowerblue;
+}
